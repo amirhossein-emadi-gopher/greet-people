@@ -1,4 +1,4 @@
-**Greet People - Console App (Create a Go module)**
+**Greet People - Console App (tutorial: create a Go module)**
 
 # Run the App
 
